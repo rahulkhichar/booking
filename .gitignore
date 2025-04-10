@@ -2,6 +2,15 @@
 /dist
 /node_modules
 /build
+# Inside modules
+/user/dist
+/user/node_modules
+/admin/dist
+/admin/node_modules
+
+/user/build
+/admin/build
+
 
 # Logs
 logs
